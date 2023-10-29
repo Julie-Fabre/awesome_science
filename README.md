@@ -20,7 +20,7 @@ A curated list of awesome resources for science and academia, in no particular o
 
 ## Data visualization
 
-- [General principles](https://clauswilke.com/dataviz/aesthetic-mapping.html)
+- [General principles](https://clauswilke.com/dataviz)
 - [Perceptually-uniform colormaps](https://github.com/holoviz/colorcet)
 - Colorblind-friendly colormaps
 
