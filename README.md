@@ -31,7 +31,8 @@ A curated list of awesome resources for science and academia, in no particular o
 
 ## Open source journals
 
-- To publish code: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+- Peer-reviewed code publication: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+- Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here]. 
 
 ## Writing
 
