@@ -10,7 +10,7 @@ A curated list of awesome resources for science and academia, in no particular o
 * [Data visualization](#data_visualization)
 * [Publication-ready plots](#publication-ready_plots)
 * [Open source journals](#open_source_journals)
-* [Writing articles](#writing_articles)
+* [Writing](#writing)
 
 <!-- END_TOC -->
 
@@ -32,3 +32,7 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Open source journals
 
 - To publish code: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+
+## Writing
+
+- [Some tips for writing science](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
