@@ -19,6 +19,10 @@ A curated list of awesome resources for science and academia, in no particular o
 
 - [Obsidian](https://obsidian.md/)
 
+## Reading papers 
+
+- [How to read a paper - Stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
 ## Data visualization
 
 - [General principles](https://clauswilke.com/dataviz)
