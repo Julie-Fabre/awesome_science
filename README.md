@@ -21,7 +21,7 @@ A curated list of awesome resources for science and academia, in no particular o
 
 ## Reading papers 
 
-- [How to read a paper - Stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [How to read a paper - S. Keshav](HowtoReadPaper.pdf)
 
 ## Data visualization
 
@@ -51,7 +51,7 @@ A curated list of awesome resources for science and academia, in no particular o
   - [eLife](https://elifesciences.org/)
 - Code:
   - Peer-reviewed code publication: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
-  - Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here]. 
+  - Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here](addingZenodoToGoogleScholar.md). 
 
 ## Writing
 
