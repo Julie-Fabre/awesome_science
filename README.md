@@ -22,12 +22,15 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Data visualization
 
 - [General principles](https://clauswilke.com/dataviz)
-- [Perceptually-uniform colormaps](https://github.com/holoviz/colorcet)
-- Colorblind-friendly colormaps
+- Colormaps:
+  - [Perceptually-uniform colormaps - Python](https://github.com/holoviz/colorcet)
+  - [crameri](https://www.fabiocrameri.ch/colourmaps/)
+- Colorblind-friendly:
+  - Online tool to check your figures: [coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
 ## Publication-ready plots
 
-- [Seaborn - python](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
+- [Seaborn - Python](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
 - [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
 - [Inkscape](https://inkscape.org/)
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
@@ -39,9 +42,12 @@ A curated list of awesome resources for science and academia, in no particular o
 - Code beautifier - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier), [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
   
 ## Open source journals
-
-- Peer-reviewed code publication: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
-- Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here]. 
+- Scientific results:
+  - [PLOS](https://plos.org/)
+  - [eLife](https://elifesciences.org/)
+- Code:
+  - Peer-reviewed code publication: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
+  - Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here]. 
 
 ## Writing
 
