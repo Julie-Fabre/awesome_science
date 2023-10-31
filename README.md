@@ -40,13 +40,10 @@ A curated list of awesome resources for science and academia, in no particular o
 
 - [Inkscape](https://inkscape.org/)
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
-- 
 - Python:
   - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
-
 - MATLAB:
   - [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
-    
 - R:
   - [ggplot2](https://ggplot2.tidyverse.org/)
 
