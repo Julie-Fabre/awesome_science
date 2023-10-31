@@ -34,18 +34,32 @@ A curated list of awesome resources for science and academia, in no particular o
   - Online tool to check your figures: [coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
 
+## Statistical analysis 
+
 ## Publication-ready plots
 
-- [Seaborn - Python](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
-- [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
 - [Inkscape](https://inkscape.org/)
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
+- 
+- Python:
+  - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
+
+- MATLAB:
+  - [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
+    
+- R:
+  - [ggplot2](https://ggplot2.tidyverse.org/)
+
 
 ## Publication-ready code 
 
 - General Principles : a philosophy of software design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
-- [Code beautifier - Python](https://github.com/psf/black)
-- Code beautifier - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier)
+
+- Python: 
+  - [Black](https://github.com/psf/black)
+
+- MATLAB: 
+  - [MBeautifier](https://github.com/davidvarga/MBeautifier)
   
 ## Open source journals
 - Scientific results:
