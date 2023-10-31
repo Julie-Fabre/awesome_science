@@ -51,10 +51,8 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Publication-ready code 
 
 - General Principles : a philosophy of software design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
-
 - Python: 
   - [Black](https://github.com/psf/black)
-
 - MATLAB: 
   - [MBeautifier](https://github.com/davidvarga/MBeautifier)
   
