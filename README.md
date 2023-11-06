@@ -28,6 +28,7 @@ A curated list of awesome resources for science and academia, in no particular o
 
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz)
 - Colormaps:
+  - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
   - [Perceptually-uniform colormaps - Python](https://github.com/holoviz/colorcet)
   - [crameri](https://www.fabiocrameri.ch/colourmaps/)
 - Colorblind-friendly:
