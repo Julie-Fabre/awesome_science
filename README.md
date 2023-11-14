@@ -35,7 +35,9 @@ A curated list of awesome resources for science and academia, in no particular o
   - Online tool to check your figures: [coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
 
-## Statistical analysis 
+## Reproducible research 
+
+- [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
 
 ## Publication-ready plots
 
