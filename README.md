@@ -18,7 +18,7 @@ A curated list of awesome resources for science and academia, in no particular o
 
 ## Organizing experiments and ideas
 
-- [Obsidian](https://obsidian.md/)
+- [Obsidian](https://obsidian.md/) - free and open source mardown-based note taking software. There's a great large community continusouly developping more features. 
 
 ## Reading papers 
 
