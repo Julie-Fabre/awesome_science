@@ -45,6 +45,7 @@ A curated list of awesome resources for science and academia, in no particular o
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
 - Python:
   - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
+  - [matplotlib](https://matplotlib.org/)
 - MATLAB:
   - [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
 - R:
@@ -54,10 +55,13 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Publication-ready code 
 
 - General Principles : a philosophy of software design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
-- Python: 
-  - [Black](https://github.com/psf/black)
-- MATLAB: 
-  - [MBeautifier](https://github.com/davidvarga/MBeautifier)
+- Code formaters: 
+  - Python: 
+    - [Black](https://github.com/psf/black)
+  - MATLAB: 
+    - [MBeautifier](https://github.com/davidvarga/MBeautifier)
+  - R:
+    - [styler](https://styler.r-lib.org/)
   
 ## Open source journals
 - Scientific results:
