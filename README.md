@@ -35,6 +35,9 @@ A curated list of awesome resources for science and academia, in no particular o
 - Colorblind-friendly:
   - Online tool to check your figures: [coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
+ 
+## Statistics
+- https://lindeloev.github.io/tests-as-linear/ 
 
 ## Reproducible research 
 
