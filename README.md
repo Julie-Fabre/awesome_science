@@ -37,7 +37,7 @@ A curated list of awesome resources for science and academia, in no particular o
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
  
 ## Statistics
-- https://lindeloev.github.io/tests-as-linear/ 
+- [Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 
 ## Reproducible research 
 
