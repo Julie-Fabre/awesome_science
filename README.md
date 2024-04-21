@@ -23,11 +23,13 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Reading papers 
 
 - [How to read a paper by S. Keshav](HowtoReadPaper.pdf)
+- [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/)
 
 ## Data visualization
 
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz)
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+  [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 - Colormaps:
   - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7), colormap: [crameri](https://www.fabiocrameri.ch/colourmaps/)
