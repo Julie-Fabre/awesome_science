@@ -23,7 +23,7 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Reading papers 
 
 - [How to read a paper by S. Keshav](HowtoReadPaper.pdf)
-- [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/)
+- [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/), [browser extensions](https://www.pubpeer.com/static/extensions)
 
 ## Data visualization
 
