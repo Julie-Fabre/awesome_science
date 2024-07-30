@@ -7,11 +7,14 @@ A curated list of awesome resources for science and academia, in no particular o
 <!-- START_TOC -->
 
 * [Contents](#contents)
-* [Organizing experiments and ideas](#organizing_experiments_and_ideas)
-* [Data visualization](#data_visualization)
-* [Publication-ready plots](#publication-ready_plots)
-* [Publication-ready code](#publication-ready_code)
-* [Open source journals](#open_source_journals)
+* [Organizing experiments and ideas](#organizing-experiments-and-ideas)
+* [Data visualization](#data-visualization)
+* [Statistics](#statistics)
+* [Reproducible research](#reproducible-research)
+* [Learning to code](#learning-to-code)
+* [Publication-ready plots](#publication-ready-plots)
+* [Publication-ready code](#publication-ready-code)
+* [Open source journals](#open-source-journals)
 * [Writing](#writing)
 
 <!-- END_TOC -->
@@ -40,7 +43,6 @@ A curated list of awesome resources for science and academia, in no particular o
  
 ## Statistics
 - [Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv](https://lindeloev.github.io/tests-as-linear/)
-- [Elements of Data Science by Allen Downey](https://allendowney.github.io/ElementsOfDataScience/)
 - One test to rule them all: generating null distributions from your data
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
@@ -48,6 +50,9 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Reproducible research 
 
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
+
+## Learning to code 
+- [Elements of Data Science by Allen Downey](https://allendowney.github.io/ElementsOfDataScience/)
 
 ## Publication-ready plots
 
