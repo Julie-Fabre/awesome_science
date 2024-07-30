@@ -86,4 +86,4 @@ A curated list of awesome resources for science and academia, in no particular o
 
 ## Writing
 
-- [Some tips for writing science by M. Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
+- [Some tips for writing science by Matteo Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
