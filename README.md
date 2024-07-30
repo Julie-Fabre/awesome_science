@@ -41,7 +41,7 @@ A curated list of awesome resources for science and academia, in no particular o
 ## Statistics
 - [Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 - [Elements of Data Science by Allen Downey](https://allendowney.github.io/ElementsOfDataScience/)
-- One test to ruel them all: generating null distributions from your data
+- One test to rule them all: generating null distributions from your data
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
 
