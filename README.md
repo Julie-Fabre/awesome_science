@@ -1,6 +1,6 @@
 # Awesome Science  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome resources for science and academia, in no particular order. Create a pull request or raise a github issue to add any resources to this list. 
+A curated list of awesome resources for science and academia, in no particular order with a bias towards free and open source resources. Create a pull request or raise a github issue to add any resources to this list. 
 
 ## Contents
 
