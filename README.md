@@ -58,6 +58,9 @@ A curated list of awesome resources for science and academia with a bias towards
 
 - [Inkscape](https://inkscape.org/)
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
+- Getting logos, icons, ect.:
+   - [Biorender](https://www.biorender.com/)
+   - [SVG repo](https://www.svgrepo.com/)
 - Python:
   - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
   - [matplotlib](https://matplotlib.org/)
@@ -89,7 +92,11 @@ A curated list of awesome resources for science and academia with a bias towards
   - Peer-reviewed code publication: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
   - Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here](addingZenodoToGoogleScholar.md). 
 
+
 ## Writing
 
 - [Some tips for writing science by Matteo Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
 - [Rules of thumb for writing research articles by Hengl & Gould](https://webapps.itc.utwente.nl/librarywww/papers/hengl_rules.pdf)
+- [Ten simple rules for structuring papers by Mensh & Kording](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
+- [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
