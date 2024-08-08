@@ -61,13 +61,9 @@ A curated list of awesome resources for science and academia with a bias towards
 - Getting logos, icons, ect.:
    - [Biorender](https://www.biorender.com/)
    - [SVG repo](https://www.svgrepo.com/)
-- Python:
-  - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html)
-  - [matplotlib](https://matplotlib.org/)
-- MATLAB:
-  - [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
-- R:
-  - [ggplot2](https://ggplot2.tidyverse.org/)
+- Python: [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
+- MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
+- R: [ggplot2](https://ggplot2.tidyverse.org/)
 
 
 ## Publication-ready code 
@@ -76,12 +72,9 @@ A curated list of awesome resources for science and academia with a bias towards
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
   - [The Good Research Code Handbook by Patrick J Mineault](https://goodresearch.dev/)
 - Code formaters: 
-  - Python: 
-    - [Black](https://github.com/psf/black)
-  - MATLAB: 
-    - [MBeautifier](https://github.com/davidvarga/MBeautifier)
-  - R:
-    - [styler](https://styler.r-lib.org/)
+  - Python: [Black](https://github.com/psf/black)
+  - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier)
+  - R: [styler](https://styler.r-lib.org/)
   
 ## Open source journals
 
