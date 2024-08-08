@@ -100,3 +100,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Ten simple rules for structuring papers by Mensh & Kording](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
 - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
+
+## Because we all need a laugh sometimes.. 
+- [xkcd](https://xkcd.com/)
+- [The far side](https://www.thefarside.com/)
