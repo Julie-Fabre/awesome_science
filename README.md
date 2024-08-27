@@ -71,6 +71,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - General Principles:
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
   - [The Good Research Code Handbook by Patrick J Mineault](https://goodresearch.dev/)
+  - [Blog post on the subject](https://blogs.ucl.ac.uk/open-access/2024/08/27/open-source-software-design-for-academia/)
 - Code formaters: 
   - Python: [Black](https://github.com/psf/black)
   - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier)
