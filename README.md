@@ -48,6 +48,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
 - [How to lie with statistics by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
+- [Suprious correlations](https://www.tylervigen.com/spurious-correlations)
   
 ## Reproducible research 
 
