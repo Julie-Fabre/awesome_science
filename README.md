@@ -34,6 +34,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
   [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
+- [How to lie with statistics by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
 - Colormaps:
   - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7), colormap: [crameri](https://www.fabiocrameri.ch/colourmaps/)
   - [Perceptually-uniform colormaps - Python](https://github.com/holoviz/colorcet)
@@ -46,7 +47,8 @@ A curated list of awesome resources for science and academia with a bias towards
 - One test to rule them all: generating null distributions from your data
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
-
+- [How to lie with statistics by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
+  
 ## Reproducible research 
 
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
