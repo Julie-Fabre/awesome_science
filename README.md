@@ -48,7 +48,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
 - [How to lie with statistics by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
-- [Suprious correlations](https://www.tylervigen.com/spurious-correlations)
+- [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
   
 ## Reproducible research 
 
@@ -74,7 +74,6 @@ A curated list of awesome resources for science and academia with a bias towards
 - General Principles:
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
   - [The Good Research Code Handbook by Patrick J Mineault](https://goodresearch.dev/)
-  - [Blog post on the subject](https://blogs.ucl.ac.uk/open-access/2024/08/27/open-source-software-design-for-academia/)
 - Code formaters: 
   - Python: [Black](https://github.com/psf/black)
   - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier)
