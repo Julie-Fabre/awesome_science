@@ -78,6 +78,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - Python: [Black](https://github.com/psf/black)
   - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier)
   - R: [styler](https://styler.r-lib.org/)
+- [Code review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012375)
   
 ## Open source journals
 
