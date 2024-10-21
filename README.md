@@ -98,7 +98,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
 - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 
-## Comica
+## Comics
 - [xkcd](https://xkcd.com/)
 - [The far side](https://www.thefarside.com/)
 - [PhD comics](https://phdcomics.com/comics/most_popular.php)
