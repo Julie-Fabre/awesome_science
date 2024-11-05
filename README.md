@@ -35,6 +35,7 @@ A curated list of awesome resources for science and academia with a bias towards
   [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 - [How to lie with statistics [and data visualization] by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
+- [Making figures - basic design principles](https://www.nature.com/articles/d41586-024-03477-0)
 - Colormaps:
   - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7), colormap: [crameri](https://www.fabiocrameri.ch/colourmaps/)
   - [Perceptually-uniform colormaps - Python](https://github.com/holoviz/colorcet)
