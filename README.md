@@ -99,7 +99,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
 - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 
-# Mentorship
+## Mentorship
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
   
 ## Funny stuff 
