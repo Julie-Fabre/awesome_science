@@ -32,7 +32,7 @@ A curated list of awesome resources for science and academia with a bias towards
 
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz)
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
-  [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
+- [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 - [How to lie with statistics [and data visualization] by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
 - [Making figures - basic design principles](https://www.nature.com/articles/d41586-024-03477-0)
