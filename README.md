@@ -11,12 +11,10 @@ A curated list of awesome resources for science and academia with a bias towards
 * [Data visualization](#data-visualization)
 * [Statistics](#statistics)
 * [Reproducible research](#reproducible-research)
-* [Learning to code](#learning-to-code)
-* [Publication-ready plots](#publication-ready-plots)
-* [Publication-ready code](#publication-ready-code)
+* [Coding](#coding)
 * [Open source journals](#open-source-journals)
 * [Writing](#writing)
-
+* [Mentorship](#mentorship)
 <!-- END_TOC -->
 
 ## Organizing experiments and ideas
@@ -29,7 +27,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/), [browser extensions](https://www.pubpeer.com/static/extensions)
 
 ## Data visualization
-
+### Principles 
 - [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz)
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 - [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
@@ -42,6 +40,16 @@ A curated list of awesome resources for science and academia with a bias towards
 - Colorblind-friendly:
   - Online tool to check your figures: [coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
+
+ ### Generating and refining figures
+ - [Inkscape](https://inkscape.org/)
+- [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
+- Getting logos, icons, ect.:
+   - [Biorender](https://www.biorender.com/)
+   - [SVG repo](https://www.svgrepo.com/)
+- Python: [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
+- MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
+- R: [ggplot2](https://ggplot2.tidyverse.org/)
  
 ## Statistics
 - [Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv](https://lindeloev.github.io/tests-as-linear/)
@@ -55,22 +63,11 @@ A curated list of awesome resources for science and academia with a bias towards
 
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
 
-## Learning to code 
+## Coding 
+### Learning to code
 - [Elements of Data Science by Allen Downey](https://allendowney.github.io/ElementsOfDataScience/)
 
-## Publication-ready plots
-
-- [Inkscape](https://inkscape.org/)
-- [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
-- Getting logos, icons, ect.:
-   - [Biorender](https://www.biorender.com/)
-   - [SVG repo](https://www.svgrepo.com/)
-- Python: [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
-- MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
-- R: [ggplot2](https://ggplot2.tidyverse.org/)
-
-
-## Publication-ready code 
+### General design principles and formatting
 
 - General Principles:
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
