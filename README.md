@@ -62,7 +62,8 @@ A curated list of awesome resources for science and academia with a bias towards
 ## Reproducible research 
 
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
-
+- [Open science course - Neuromatch](https://openscience.neuromatch.io/)
+  
 ## Coding 
 ### Learning to code
 - [Elements of Data Science by Allen Downey](https://allendowney.github.io/ElementsOfDataScience/)
