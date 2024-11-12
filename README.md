@@ -99,7 +99,7 @@ A curated list of awesome resources for science and academia with a bias towards
 
 ## Mentorship
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
-- [Wellcome: Tips for running your own research group] https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf
+- [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
   
 ## Funny stuff 
 - [xkcd](https://xkcd.com/)
