@@ -28,11 +28,11 @@ A curated list of awesome resources for science and academia with a bias towards
 
 ## Data visualization
 ### Principles 
-- [Fundamentals of Data Visualization by Claus O. Wilke](https://clauswilke.com/dataviz)
+- [Fundamentals of Data Visualization by C. Wilke](https://clauswilke.com/dataviz)
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 - [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
 - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
-- [How to lie with statistics [and data visualization] by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
+- [How to lie with statistics [and data visualization] by D. Huff](https://archive.org/details/HowToLieWithStatistics_201608)
 - [Making figures - basic design principles](https://www.nature.com/articles/d41586-024-03477-0)
 - Colormaps:
   - [The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7), colormap: [crameri](https://www.fabiocrameri.ch/colourmaps/)
@@ -52,11 +52,11 @@ A curated list of awesome resources for science and academia with a bias towards
 - R: [ggplot2](https://ggplot2.tidyverse.org/)
  
 ## Statistics
-- [Common statistical tests are linear models (or: how to teach stats) - Jonas Kristoffer Lindeløv](https://lindeloev.github.io/tests-as-linear/)
+- [Common statistical tests are linear models (or: how to teach stats) - J. Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 - One test to rule them all: generating null distributions from your data
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
-- [How to lie with statistics by Darrell Huff](https://archive.org/details/HowToLieWithStatistics_201608)
+- [How to lie with statistics by D. Huff](https://archive.org/details/HowToLieWithStatistics_201608)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
   
 ## Reproducible research 
@@ -66,13 +66,13 @@ A curated list of awesome resources for science and academia with a bias towards
   
 ## Coding 
 ### Learning to code
-- [Elements of Data Science by Allen Downey](https://allendowney.github.io/ElementsOfDataScience/)
+- [Elements of Data Science by A. Downey](https://allendowney.github.io/ElementsOfDataScience/)
 
 ### General design principles and formatting
 
 - General Principles:
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
-  - [The Good Research Code Handbook by Patrick J Mineault](https://goodresearch.dev/)
+  - [The Good Research Code Handbook by P. Mineault](https://goodresearch.dev/)
 - Code formaters: 
   - Python: [Black](https://github.com/psf/black)
   - MATLAB: [MBeautifier](https://github.com/davidvarga/MBeautifier)
@@ -91,9 +91,10 @@ A curated list of awesome resources for science and academia with a bias towards
 
 ## Writing
 
-- [Some tips for writing science by Matteo Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
+- [Some tips for writing science by M. Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
 - [Rules of thumb for writing research articles by Hengl & Gould](https://webapps.itc.utwente.nl/librarywww/papers/hengl_rules.pdf)
 - [Ten simple rules for structuring papers by Mensh & Kording](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- [10 tips on how we write papers by E. Sargent](https://www.sciencedirect.com/science/article/pii/S2590238522005434)
 - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
 - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 
