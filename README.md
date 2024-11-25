@@ -47,7 +47,9 @@ A curated list of awesome resources for science and academia with a bias towards
 - Getting logos, icons, ect.:
    - [Biorender](https://www.biorender.com/)
    - [SVG repo](https://www.svgrepo.com/)
-- Python: [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
+- Python:
+  - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
+  - [Pylustrator](https://github.com/rgerum/pylustrator)
 - MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
 - R: [ggplot2](https://ggplot2.tidyverse.org/)
  
