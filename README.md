@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for science and academia with a bias towards free and open source resources. Create a pull request or raise a github issue to add any resources to this list. 
 
-## Contents
+### Contents
 
 <!-- START_TOC -->
 
@@ -17,17 +17,17 @@ A curated list of awesome resources for science and academia with a bias towards
 * [Mentorship](#mentorship)
 <!-- END_TOC -->
 
-## Organizing experiments and ideas
+### Organizing experiments and ideas
 
 - [Obsidian](https://obsidian.md/) - free and open source mardown-based note taking software. There's a great large community continuously developping more features. 
 
-## Reading papers 
+### Reading papers 
 
 - [How to read a paper by S. Keshav](HowtoReadPaper.pdf)
 - [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/), [browser extensions](https://www.pubpeer.com/static/extensions)
 
-## Data visualization
-### Principles 
+### Data visualization
+#### Principles 
 - [Fundamentals of Data Visualization by C. Wilke](https://clauswilke.com/dataviz)
 - [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 - [Weissgerber et al., 2015, PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128)
@@ -41,7 +41,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - Online tool to check your figures: [coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
 
- ### Generating and refining figures
+ #### Generating and refining figures
  - [Inkscape](https://inkscape.org/)
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
 - Getting logos, icons, ect.:
@@ -53,7 +53,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
 - R: [ggplot2](https://ggplot2.tidyverse.org/)
  
-## Statistics
+### Statistics
 - [Common statistical tests are linear models (or: how to teach stats) - J. Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 - One test to rule them all: generating null distributions from your data
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
@@ -61,16 +61,16 @@ A curated list of awesome resources for science and academia with a bias towards
 - [How to lie with statistics by D. Huff](https://archive.org/details/HowToLieWithStatistics_201608)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
   
-## Reproducible research 
+### Reproducible research 
 
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
 - [Open science course - Neuromatch](https://openscience.neuromatch.io/)
   
-## Coding 
-### Learning to code
+### Coding 
+#### Learning to code
 - [Elements of Data Science by A. Downey](https://allendowney.github.io/ElementsOfDataScience/)
 
-### General design principles and formatting
+#### General design principles and formatting
 
 - General Principles:
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
@@ -81,7 +81,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - R: [styler](https://styler.r-lib.org/)
 - [Code review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012375)
   
-## Open source journals
+### Open source journals
 
 - Scientific results:
   - [PLOS](https://plos.org/)
@@ -91,7 +91,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here](addingZenodoToGoogleScholar.md). 
 
 
-## Writing
+### Writing
 
 - [Some tips for writing science by M. Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
 - [Rules of thumb for writing research articles by Hengl & Gould](https://webapps.itc.utwente.nl/librarywww/papers/hengl_rules.pdf)
@@ -100,14 +100,14 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
 - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
 
-## Mentorship
+### Mentorship
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
 
-## Equipment
+### Equipment
 - Designs to 3D print: https://www.thingiverse.com/ 
   
-## Funny stuff 
+### Funny stuff 
 - [xkcd](https://xkcd.com/)
 - [The far side](https://www.thefarside.com/)
 - [PhD comics](https://phdcomics.com/comics/most_popular.php)
