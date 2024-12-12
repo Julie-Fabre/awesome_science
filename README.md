@@ -116,8 +116,15 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
 
 ### Equipment
-- Designs to 3D print: https://www.thingiverse.com/ 
-  
+- Designs to 3D print: https://www.thingiverse.com/
+
+### Blogs 
+- https://labrigger.com (General)
+- https://matt.might.net/articles/ (General & Computer Science)
+- https://backreaction.blogspot.com/ (General & Physics)
+- https://terrytao.wordpress.com/ (General & Maths)
+- https://www.thetransmitter.org/ (Neuroscience)
+- 
 ### Funny stuff 
 - [xkcd](https://xkcd.com/)
 - [The far side](https://www.thefarside.com/)
