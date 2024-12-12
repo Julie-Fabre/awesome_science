@@ -22,8 +22,12 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Obsidian](https://obsidian.md/) - free and open source mardown-based note taking software. There's a great large community continuously developping more features. 
 
 ### Reading papers 
-
+Guides: 
 - [How to read a paper by S. Keshav](HowtoReadPaper.pdf)
+Finding papers:
+- [connected papers](https://www.connectedpapers.com/)
+- [inciteful](https://inciteful.xyz)
+Discussion forum:
 - [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/), [browser extensions](https://www.pubpeer.com/static/extensions)
 
 ### Data visualization
@@ -92,13 +96,17 @@ A curated list of awesome resources for science and academia with a bias towards
 
 
 ### Writing
-
+Books: 
+- [How to write a scientific paper by C. Mack](https://spie.org/samples/9781510619142.pdf)
+Articles: 
 - [Some tips for writing science by M. Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
 - [Rules of thumb for writing research articles by Hengl & Gould](https://webapps.itc.utwente.nl/librarywww/papers/hengl_rules.pdf)
 - [Ten simple rules for structuring papers by Mensh & Kording](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [10 tips on how we write papers by E. Sargent](https://www.sciencedirect.com/science/article/pii/S2590238522005434)
 - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
 - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
+Courses:
+- [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
 ### Mentorship
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
