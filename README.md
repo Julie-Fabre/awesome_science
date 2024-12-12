@@ -64,7 +64,9 @@ A curated list of awesome resources for science and academia with a bias towards
   - [Chapter in Elements of Data Science on this](https://allendowney.github.io/ElementsOfDataScience/13_hypothesis.html#the-hypothesis-testing-framework)
 - [How to lie with statistics by D. Huff](https://archive.org/details/HowToLieWithStatistics_201608)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
-  
+- [P-hacking](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002106)
+- [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+
 ### Reproducible research 
 
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
