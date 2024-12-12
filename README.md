@@ -103,6 +103,7 @@ Books:
   
 Articles: 
 - [Some tips for writing science by M. Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
+- [Whitesides' group: writing a paper](https://www.gmwgroup.harvard.edu/files/gmwgroup/files/895.pdf)
 - [Rules of thumb for writing research articles by Hengl & Gould](https://webapps.itc.utwente.nl/librarywww/papers/hengl_rules.pdf)
 - [Ten simple rules for structuring papers by Mensh & Kording](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [10 tips on how we write papers by E. Sargent](https://www.sciencedirect.com/science/article/pii/S2590238522005434)
