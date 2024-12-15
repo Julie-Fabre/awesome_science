@@ -151,7 +151,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Lego grad student](https://brickademics.com/gallery)
 - [PhD simulator](https://research.wmz.ninja/projects/phd/index.html)
 
-### Otehr awesome lists
+### Other awesome lists
 - https://github.com/deverte/awesome-science
 - https://github.com/helenahartmann/awesome-PhD
 - https://github.com/alirezasamar/awesome-phd
