@@ -14,8 +14,10 @@ A curated list of awesome resources for science and academia with a bias towards
 * [Coding](#coding)
 * [Open source journals](#open-source-journals)
 * [Writing](#writing)
+* [Equipment](#equipment)
 * [Mentorship](#mentorship)
 * [PhD resources](#phd-resources)
+* [Funny stuff](#funny-stuff)
 <!-- END_TOC -->
 
 ### Organizing experiments and ideas
@@ -120,6 +122,10 @@ A curated list of awesome resources for science and academia with a bias towards
 - Courses:
   - [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
+  
+### Equipment
+- Designs to 3D print: https://www.thingiverse.com/
+  
 ### Mentorship
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
@@ -129,9 +135,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [How to Be a Graduate Advisee](https://www.cell.com/neuron/fulltext/S0896-6273(13)01191-4)
 - [Doing a PhD: ten golden rules](https://www.nature.com/articles/s41390-022-01950-y.pdf)
 - [The importance of stupidity in scientific research by M Schwartz](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
-  
-### Equipment
-- Designs to 3D print: https://www.thingiverse.com/
+
 
 ### Blogs 
 - https://labrigger.com (General)
@@ -146,3 +150,11 @@ A curated list of awesome resources for science and academia with a bias towards
 - [PhD comics](https://phdcomics.com/comics/most_popular.php)
 - [Lego grad student](https://brickademics.com/gallery)
 - [PhD simulator](https://research.wmz.ninja/projects/phd/index.html)
+
+### Otehr awesome lists
+- https://github.com/deverte/awesome-science
+- https://github.com/helenahartmann/awesome-PhD
+- https://github.com/alirezasamar/awesome-phd
+- https://github.com/pliang279/awesome-phd-advice
+- https://phd-resources.github.io/general
+- https://x.com/lei_zhang_lz/status/1474174707788304387?s=20
