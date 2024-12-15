@@ -15,6 +15,7 @@ A curated list of awesome resources for science and academia with a bias towards
 * [Open source journals](#open-source-journals)
 * [Writing](#writing)
 * [Mentorship](#mentorship)
+* [PhD resources](#phd-resources)
 <!-- END_TOC -->
 
 ### Organizing experiments and ideas
@@ -110,6 +111,9 @@ A curated list of awesome resources for science and academia with a bias towards
   - [10 tips on how we write papers by E. Sargent](https://www.sciencedirect.com/science/article/pii/S2590238522005434)
   - [Health care articles with simple and declarative titles were more likely to be in the Altmetric Top 100](https://www.sciencedirect.com/science/article/pii/S0895435616308538?via%3Dihub)
   - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
+  - [How to write clearly](http://www.harmonize.com/probe/BulletinEditors/BE-Manual/Write_cl.htm)
+  - [How to write consistently boring scientiﬁc literature by Sand-Jensen](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0030-1299.2007.15674.x)
+  - [How to write an excellent Review articl](https://www.nature.com/articles/s44222-024-00256-4)
 - Courses:
   - [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
@@ -117,6 +121,11 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
 
+### PhD resources 
+- [How to Pick a Graduate Advisor by Ben Barres](https://www.cell.com/neuron/pdf/S0896-6273(13)00907-0.pdf)
+- [How to Be a Graduate Advisee](https://www.cell.com/neuron/fulltext/S0896-6273(13)01191-4)
+- [Doing a PhD: ten golden rules](https://www.nature.com/articles/s41390-022-01950-y.pdf)
+  
 ### Equipment
 - Designs to 3D print: https://www.thingiverse.com/
 
