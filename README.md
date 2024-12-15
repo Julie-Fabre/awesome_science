@@ -22,6 +22,9 @@ A curated list of awesome resources for science and academia with a bias towards
 
 - [Obsidian](https://obsidian.md/) - free and open source mardown-based note taking software. There's a great large community continuously developping more features. 
 
+### Choosing a topic
+- [How to Choose a Good Scientific Problem by U Alon](https://www.cell.com/molecular-cell/fulltext/S1097-2765(09)00641-8)
+  
 ### Reading papers 
 - Guides: 
   - [How to read a paper by S. Keshav](HowtoReadPaper.pdf)
@@ -125,6 +128,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [How to Pick a Graduate Advisor by Ben Barres](https://www.cell.com/neuron/pdf/S0896-6273(13)00907-0.pdf)
 - [How to Be a Graduate Advisee](https://www.cell.com/neuron/fulltext/S0896-6273(13)01191-4)
 - [Doing a PhD: ten golden rules](https://www.nature.com/articles/s41390-022-01950-y.pdf)
+- [The importance of stupidity in scientific research by M Schwartz](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
   
 ### Equipment
 - Designs to 3D print: https://www.thingiverse.com/
