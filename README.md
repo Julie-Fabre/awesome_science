@@ -116,7 +116,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - [Elsevier series on preparing a manuscript](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
   - [How to write clearly](http://www.harmonize.com/probe/BulletinEditors/BE-Manual/Write_cl.htm)
   - [How to write consistently boring scientiﬁc literature by Sand-Jensen](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0030-1299.2007.15674.x)
-  - [How to write an excellent Review articl](https://www.nature.com/articles/s44222-024-00256-4)
+  - [How to write an excellent Review article](https://www.nature.com/articles/s44222-024-00256-4)
 - Courses:
   - [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
@@ -139,7 +139,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - https://backreaction.blogspot.com/ (General & Physics)
 - https://terrytao.wordpress.com/ (General & Maths)
 - https://www.thetransmitter.org/ (Neuroscience)
-- 
+  
 ### Funny stuff 
 - [xkcd](https://xkcd.com/)
 - [The far side](https://www.thefarside.com/)
