@@ -104,11 +104,11 @@ A curated list of awesome resources for science and academia with a bias towards
 
 
 ### Writing
-- Books: 
+- Books on writing: 
   - [How to write a scientific paper by C. Mack](https://spie.org/samples/9781510619142.pdf)
-- Videos:
+- Videos on writing: 
   - [The craft of writing effectively - UChicago](https://youtu.be/vtIzMaLkCaM?si=DHqD5IsoSB4xQjQy)
-- Articles: 
+- Articles on writing: 
   - [Some tips for writing science by M. Carandini](https://www.eneuro.org/content/9/6/ENEURO.0497-22.2022.abstract)
   - [Whitesides' group: writing a paper](https://www.gmwgroup.harvard.edu/files/gmwgroup/files/895.pdf)
   - [Rules of thumb for writing research articles by Hengl & Gould](https://webapps.itc.utwente.nl/librarywww/papers/hengl_rules.pdf)
@@ -119,7 +119,7 @@ A curated list of awesome resources for science and academia with a bias towards
   - [How to write clearly](http://www.harmonize.com/probe/BulletinEditors/BE-Manual/Write_cl.htm)
   - [How to write consistently boring scientiﬁc literature by Sand-Jensen](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0030-1299.2007.15674.x)
   - [How to write an excellent Review article](https://www.nature.com/articles/s44222-024-00256-4)
-- Courses:
+- Courses on writing: 
   - [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
   
