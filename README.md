@@ -126,9 +126,10 @@ A curated list of awesome resources for science and academia with a bias towards
 ### Equipment
 - Designs to 3D print: https://www.thingiverse.com/
   
-### Mentorship
+### Mentorship/starting your lab
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
+- [Advice on starting your lab from Tim Behrens](https://users.fmrib.ox.ac.uk/~behrens/Startingalab.htm)
 
 ### PhD resources 
 - [How to Pick a Graduate Advisor by Ben Barres](https://www.cell.com/neuron/pdf/S0896-6273(13)00907-0.pdf)
