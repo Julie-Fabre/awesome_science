@@ -131,6 +131,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
 - [Advice on starting your lab from Tim Behrens](https://users.fmrib.ox.ac.uk/~behrens/Startingalab.htm)
 - [getting-a-job-in-french-academia](https://trialsanderrors.substack.com/p/getting-a-job-in-french-academia)
+- ["The SAFE Labs Handbook: community-driven commitments for group leaders to improve lab culture"](https://www.biorxiv.org/content/10.1101/2025.05.27.655799v1.full.pdf)
   
 ### PhD resources 
 - [How to Pick a Graduate Advisor by Ben Barres](https://www.cell.com/neuron/pdf/S0896-6273(13)00907-0.pdf)
