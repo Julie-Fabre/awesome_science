@@ -64,6 +64,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - R: [ggplot2](https://ggplot2.tidyverse.org/)
  
 ### Statistics
+- [Youtube series on statistics - R. McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 - [Common statistical tests are linear models (or: how to teach stats) - J. Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 - One test to rule them all: generating null distributions from your data
   - [Blog post by Allen Downey on this](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
