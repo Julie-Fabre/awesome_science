@@ -75,7 +75,6 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
 
 ### Reproducible research 
-
 - [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
 - [Open science course - Neuromatch](https://openscience.neuromatch.io/)
   
@@ -84,7 +83,6 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Elements of Data Science by A. Downey](https://allendowney.github.io/ElementsOfDataScience/)
 
 #### General design principles and formatting
-
 - General Principles:
   - A Philosophy of Software Design [book](https://milkov.tech/assets/psd.pdf), [talk](https://www.youtube.com/watch?v=bmSAYlu0NcY&ab_channel=TalksatGoogle)
   - [The Good Research Code Handbook by P. Mineault](https://goodresearch.dev/)
@@ -95,14 +93,12 @@ A curated list of awesome resources for science and academia with a bias towards
 - [Code review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012375)
   
 ### Open source journals
-
 - Scientific results:
   - [PLOS](https://plos.org/)
   - [eLife](https://elifesciences.org/)
 - Code:
   - Peer-reviewed code publication: [Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
   - Code publication: [Zenodo](https://zenodo.org/), guide to adding zenodo code to google scholar profile [here](addingZenodoToGoogleScholar.md). 
-
 
 ### Writing
 - Books on writing: 
@@ -123,10 +119,10 @@ A curated list of awesome resources for science and academia with a bias towards
 - Courses on writing: 
   - [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
 
-  
 ### Equipment
 - Designs to 3D print: https://www.thingiverse.com/
-  
+- Open source 3D design software: [solvespace](https://solvespace.com/index.pl)
+
 ### Mentorship/starting your lab
 - [Yearly Planning Meetings: Individualized Development Plans Aren’t Just More Paperwork](https://www.cell.com/molecular-cell/fulltext/S1097-2765(15)00307-X)
 - [Wellcome: Tips for running your own research group](https://wellcome.org/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf)
