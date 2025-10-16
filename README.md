@@ -52,16 +52,20 @@ A curated list of awesome resources for science and academia with a bias towards
   - MATLAB tool to check your figures: [prettify_matlab](https://github.com/Julie-Fabre/prettify_matlab)
 
  #### Generating and refining figures
+ ##### Editing software
  - [Inkscape](https://inkscape.org/)
 - [Scientific-inkscape plugin](https://github.com/burghoff/Scientific-Inkscape)
-- Getting logos, icons, ect.:
+ ##### Getting logos, icons, ect.
    - [Biorender](https://www.biorender.com/)
    - [SVG repo](https://www.svgrepo.com/)
-- Python:
-  - [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
-  - [Pylustrator](https://github.com/rgerum/pylustrator)
-- MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
+ ##### Plotting toolboxes 
+- Python: [Seaborn](https://seaborn.pydata.org/), intro to the ideas behind seaborn [here](https://seaborn.pydata.org/tutorial/introduction.html); [matplotlib](https://matplotlib.org/)
 - R: [ggplot2](https://ggplot2.tidyverse.org/)
+ ##### Tips and automated toolboxes to beautify figures
+- MATLAB: [Plot beautifier - MATLAB](https://github.com/Julie-Fabre/prettify_matlab)
+- Python: [Pylustrator](https://github.com/rgerum/pylustrator)
+- [Python] [tips by Guido Meijer](https://bsky.app/profile/guidomeijer.com/post/3m3cdjoedfk2l)
+ 
  
 ### Statistics
 - [Youtube series on statistics - R. McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
