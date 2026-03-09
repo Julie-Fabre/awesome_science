@@ -33,6 +33,7 @@ A curated list of awesome resources for science and academia with a bias towards
 - Finding papers:
   - [connected papers](https://www.connectedpapers.com/)
   - [inciteful](https://inciteful.xyz)
+  - [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching scientific papers with full-text experimental data
 - Discussion forum:
   - [Pubpeer: platform  for discussions on papers post-publication](https://pubpeer.com/), [browser extensions](https://www.pubpeer.com/static/extensions)
 
