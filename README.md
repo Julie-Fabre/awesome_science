@@ -120,8 +120,10 @@ A curated list of awesome resources for science and academia with a bias towards
   - [How to write clearly](http://www.harmonize.com/probe/BulletinEditors/BE-Manual/Write_cl.htm)
   - [How to write consistently boring scientiﬁc literature by Sand-Jensen](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.0030-1299.2007.15674.x)
   - [How to write an excellent Review article](https://www.nature.com/articles/s44222-024-00256-4)
-- Courses on writing: 
+- Courses on writing:
   - [Writing in the Sciences on Coursera](https://www.coursera.org/learn/sciwrite)
+- Citation tools:
+  - [CiteMe](https://citeme.app) - free academic citation generator that searches real databases (OpenAlex, CrossRef, PubMed, Semantic Scholar) and formats references in APA, MLA, Chicago, Harvard, ABNT, Vancouver, IEEE, and 40+ other CSL styles. Free tier available.
 
 ### Equipment
 - Designs to 3D print: https://www.thingiverse.com/
