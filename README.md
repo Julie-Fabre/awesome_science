@@ -85,6 +85,7 @@ A curated list of awesome resources for science and academia with a bias towards
 ### Coding 
 #### Learning to code
 - [Elements of Data Science by A. Downey](https://allendowney.github.io/ElementsOfDataScience/)
+- [QuizQuip](https://quizquip.com) - Free Singapore Sec 1-2 Science revision: chapter notes, quizzes, topical questions, original practice papers.
 
 #### General design principles and formatting
 - General Principles:
