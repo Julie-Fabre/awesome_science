@@ -68,6 +68,7 @@ A curated list of awesome resources for science and academia with a bias towards
  
  
 ### Statistics
+- [Calculation Hub Sample Size Calculator](https://calculation-hub.com/statistics/sample-size) - Free sample-size planning aid with explanations of confidence, margin of error, and sampling assumptions; not study validation.
 - [Youtube series on statistics - R. McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 - [Common statistical tests are linear models (or: how to teach stats) - J. Lindeløv](https://lindeloev.github.io/tests-as-linear/)
 - One test to rule them all: generating null distributions from your data
